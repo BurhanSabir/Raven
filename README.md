@@ -1,4 +1,4 @@
-# raven
+# RAVEN
 This is the code for taking video stream for camera or gallery and then convert those video to frames and pass to OSNet model
 For using This code you should first have to install torchreid library https://github.com/KaiyangZhou/deep-person-reid
 Then install the further dependencies like pytorch tkinter opencv 
